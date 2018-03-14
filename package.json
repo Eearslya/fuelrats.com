@@ -66,6 +66,7 @@
     "react-dom": "^16.2.0",
     "react-google-recaptcha": "^0.9.9",
     "react-redux": "^5.0.5",
+    "react-stripe-checkout": "^2.6.3",
     "react-table": "^6.7.4",
     "redux": "^3.7.1",
     "redux-devtools-extension": "^2.13.2",

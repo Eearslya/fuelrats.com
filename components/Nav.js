@@ -19,6 +19,9 @@ const links = {
   'Stories, Art, & Toons': {
     href: '/blog/category/138',
   },
+  Donate: {
+    href: '/donate',
+  },
 }
 
 
